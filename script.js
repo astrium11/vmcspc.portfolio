@@ -90,31 +90,6 @@ document.querySelectorAll("[data-copy]").forEach((button) => {
   });
 });
 
-document.querySelector("[data-download-cv]").addEventListener("click", () => {
-  const cv = [
-    "Biya Macaspac",
-    "BSIT Graduate 2026",
-    "Web Designer - AI-Assisted Developer",
-    "",
-    "Email: biyamacaspac@gmail.com",
-    "Phone: +63 912 345 6789",
-    "Location: Philippines",
-    "GitHub: github.com/biyamacaspac",
-    "",
-    "Featured Project: Care4Paws - Pet Adoption Tracking System",
-    "Skills: HTML, CSS, JavaScript, PHP, MySQL, Firebase, Figma, Photoshop, Canva, CapCut, ChatGPT, Codex"
-  ].join("\n");
-
-  const blob = new Blob([cv], { type: "text/plain" });
-  const url = URL.createObjectURL(blob);
-  const link = document.createElement("a");
-  link.href = url;
-  link.download = "Biya-Macaspac-CV.txt";
-  link.click();
-  URL.revokeObjectURL(url);
-  showToast("CV download started.");
-});
-
 document.querySelector("[data-send-message]").addEventListener("click", () => {
   const subject = encodeURIComponent("Portfolio inquiry for Biya Macaspac");
   const body = encodeURIComponent("Hi Biya,\n\nI would like to discuss a project/opportunity with you.");
