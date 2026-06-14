@@ -1508,16 +1508,17 @@ h1 span {
 }
 
 .anya-preview {
+  min-height: 118px;
   background:
     linear-gradient(rgba(17, 16, 14, 0.62), rgba(17, 16, 14, 0.72)),
     url("assets/projects/anya-beddings/back.jpg") center / cover;
 }
 
 .anya-preview::before {
-  width: 210px;
-  height: 210px;
-  background: rgba(84, 168, 223, 0.16);
-  filter: blur(14px);
+  width: 140px;
+  height: 140px;
+  background: rgba(84, 168, 223, 0.14);
+  filter: blur(10px);
 }
 
 .anya-preview-brand {
@@ -1530,15 +1531,15 @@ h1 span {
 }
 
 .anya-preview-brand img {
-  width: 56px;
-  height: 56px;
+  width: 36px;
+  height: 36px;
   object-fit: contain;
 }
 
 .anya-preview .anya-preview-brand span {
   color: #fdfcfa;
   font-family: var(--font-heading);
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 800;
   line-height: 1;
   text-shadow: 0 8px 22px rgba(0, 0, 0, 0.45);
