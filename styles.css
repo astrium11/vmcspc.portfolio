@@ -1536,15 +1536,6 @@ h1 span {
   object-fit: contain;
 }
 
-.anya-preview .anya-preview-brand span {
-  color: #fdfcfa;
-  font-family: var(--font-heading);
-  font-size: 20px;
-  font-weight: 800;
-  line-height: 1;
-  text-shadow: 0 8px 22px rgba(0, 0, 0, 0.45);
-}
-
 .lost-preview {
   background: linear-gradient(135deg, rgba(209, 166, 95, 0.72), rgba(72, 53, 34, 0.88));
 }
