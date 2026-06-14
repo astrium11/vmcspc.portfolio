@@ -1,0 +1,115 @@
+[Sat Jun 13 14:54:58 2026] PHP 8.2.12 Development Server (http://127.0.0.1:8000) started
+[Sat Jun 13 14:55:14 2026] 127.0.0.1:55020 Accepted
+[Sat Jun 13 14:55:14 2026] 127.0.0.1:55020 [200]: GET /
+[Sat Jun 13 14:55:14 2026] 127.0.0.1:55020 Closing
+[Sat Jun 13 14:55:42 2026] 127.0.0.1:59664 Accepted
+[Sat Jun 13 14:55:42 2026] 127.0.0.1:59664 [200]: GET /script.js
+[Sat Jun 13 14:55:42 2026] 127.0.0.1:59664 Closing
+[Sat Jun 13 14:55:42 2026] 127.0.0.1:59665 Accepted
+[Sat Jun 13 14:55:42 2026] 127.0.0.1:59665 [200]: GET /styles.css?v=9
+[Sat Jun 13 14:55:42 2026] 127.0.0.1:59665 Closing
+[Sat Jun 13 14:56:46 2026] 127.0.0.1:64221 Accepted
+[Sat Jun 13 14:56:46 2026] 127.0.0.1:64221 [200]: GET /
+[Sat Jun 13 14:56:46 2026] 127.0.0.1:64221 Closing
+[Sat Jun 13 14:56:46 2026] 127.0.0.1:64223 Accepted
+[Sat Jun 13 14:56:46 2026] 127.0.0.1:64223 [200]: GET /img/marketing-design-mockup.jfif
+[Sat Jun 13 14:56:46 2026] 127.0.0.1:64223 Closing
+[Sat Jun 13 14:58:42 2026] 127.0.0.1:63052 Accepted
+[Sat Jun 13 14:58:42 2026] 127.0.0.1:63052 [200]: GET /
+[Sat Jun 13 14:58:42 2026] 127.0.0.1:63052 Closing
+[Sat Jun 13 14:58:42 2026] 127.0.0.1:63053 Accepted
+[Sat Jun 13 14:58:42 2026] 127.0.0.1:63053 [200]: GET /script.js?v=10
+[Sat Jun 13 14:58:42 2026] 127.0.0.1:63053 Closing
+[Sat Jun 13 14:58:55 2026] 127.0.0.1:62852 Accepted
+[Sat Jun 13 14:58:55 2026] 127.0.0.1:62852 [200]: GET /styles.css?v=10
+[Sat Jun 13 14:58:55 2026] 127.0.0.1:62852 Closing
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:63384 Accepted
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:63384 Closed without sending a request; it was probably just an unused speculative preconnection
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:63384 Closing
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:54978 Accepted
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:58218 Accepted
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:58218 [200]: GET /
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:58218 Closing
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:54978 [200]: GET /styles.css?v=10
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:61327 Accepted
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:61327 [200]: GET /vm-logo.png
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:54978 Closing
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:57685 Accepted
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:53107 Accepted
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:57685 [200]: GET /picture.png
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:53107 [200]: GET /script.js?v=10
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:58711 Accepted
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:53107 Closing
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:58711 [200]: GET /img/marketing-design-mockup.jfif
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:58711 Closing
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:61327 Closing
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:51115 Accepted
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:51115 [200]: GET /img/marketing-design-poster.jfif
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:51115 Closing
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:55551 Accepted
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:55551 [200]: GET /img/apparel-uniform-design-anya-beddings.jfif
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:55551 Closing
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:57685 Closing
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:50749 Accepted
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:50749 [200]: GET /img/baby-magazine-cover-design.jfif
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:50749 Closing
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:62649 Accepted
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:62649 [200]: GET /img/baby-magazine-cover-mockup.jfif
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:62649 Closing
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:53382 Accepted
+[Sat Jun 13 15:00:00 2026] 127.0.0.1:53382 [200]: GET /picture.png
+[Sat Jun 13 15:00:01 2026] 127.0.0.1:53382 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:51874 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:51874 Closed without sending a request; it was probably just an unused speculative preconnection
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:51874 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:59477 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:63905 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:59477 Closed without sending a request; it was probably just an unused speculative preconnection
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:59477 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:63905 Closed without sending a request; it was probably just an unused speculative preconnection
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:63905 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:52647 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:52647 [200]: GET /
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:52647 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:53470 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:53470 [200]: GET /styles.css?v=11
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:55144 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:55144 [200]: GET /vm-logo.png
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:53470 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:64490 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:54640 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:64490 [200]: GET /picture.png
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:54640 [200]: GET /script.js?v=10
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:54640 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:49612 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:51880 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:49612 [200]: GET /img/marketing-design-mockup.jfif
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:51880 [200]: GET /img/marketing-design-poster.jfif
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:49612 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:51880 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:55144 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:63796 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:63796 [200]: GET /img/apparel-uniform-design-anya-beddings.jfif
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:64490 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:63796 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:57526 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:57526 [200]: GET /img/baby-magazine-cover-design.jfif
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:57526 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:54756 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:54756 [200]: GET /img/baby-magazine-cover-mockup.jfif
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:54756 Closing
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:62154 Accepted
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:62154 [200]: GET /picture.png
+[Sat Jun 13 15:02:48 2026] 127.0.0.1:62154 Closing
+[Sat Jun 13 15:14:45 2026] 127.0.0.1:49819 Accepted
+[Sat Jun 13 15:14:45 2026] 127.0.0.1:49820 Accepted
+[Sat Jun 13 15:14:45 2026] 127.0.0.1:49821 Accepted
+[Sat Jun 13 15:14:45 2026] 127.0.0.1:49818 Accepted
+[Sat Jun 13 15:14:45 2026] 127.0.0.1:49818 [200]: GET /
+[Sat Jun 13 15:14:45 2026] 127.0.0.1:49819 [200]: GET /assets/brand/vm-logo.png
+[Sat Jun 13 15:14:45 2026] 127.0.0.1:49820 [200]: GET /assets/designs/marketing-design-poster.jfif
+[Sat Jun 13 15:14:45 2026] 127.0.0.1:49821 [200]: GET /assets/profile/picture.png
+[Sat Jun 13 15:14:45 2026] 127.0.0.1:49818 Closing
+[Sat Jun 13 15:14:45 2026] 127.0.0.1:49820 Closing
+[Sat Jun 13 15:14:45 2026] 127.0.0.1:49819 Closing
+[Sat Jun 13 15:14:46 2026] 127.0.0.1:49821 Closing
